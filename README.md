@@ -2,6 +2,8 @@
 
 Four coordinated animated wallpapers for Windows and Lively Wallpaper, created for Blackbird / **cs-blackbird**. A fictional future inspired by Oglala/Lakota identity: mountain reconnaissance, a hidden underground complex, orbital overwatch and a command center, with colorful running code.
 
+**Use any 1, 2, 3, or all 4 wallpapers. You do not need four monitors.** Pick the designs you like and assign them in Lively; each works on its own.
+
 ## Download and install
 
 **[Download the latest wallpaper bundle](https://github.com/cs-blackbird/blackbird-wallpapers/releases/latest)**
@@ -28,6 +30,8 @@ Use all four or select the ones that fit your setup. Displays 3 and 4 coordinate
 - Mountain views, underground scans, simulated people and the BLKBRD satellite network follow a coordinated visual story.
 
 ## Previews
+
+These are screenshots of the running community wallpapers, without desktop icons, browser controls or control-session banners.
 
 ![Command](command.png)
 ![Overwatch](overwatch.png)
